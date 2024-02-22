@@ -7,3 +7,6 @@
 [submodule "tin"]
 	path = tin
 	url = https://github.com/tjcsl/tin.git
+[submodule "othello-tourney"]
+	path = othello-tourney
+	url = https://github.com/tjcsl/othello-tourney.git
