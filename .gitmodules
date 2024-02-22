@@ -4,3 +4,6 @@
 [submodule "homecoming"]
 	path = homecoming
 	url = https://github.com/tjcsl/homecoming.git
+[submodule "tin"]
+	path = tin
+	url = https://github.com/tjcsl/tin.git
