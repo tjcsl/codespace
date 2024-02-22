@@ -1,0 +1,6 @@
+[submodule "intranet"]
+	path = intranet
+	url = https://github.com/tjcsl/ion.git
+[submodule "homecoming"]
+	path = homecoming
+	url = https://github.com/tjcsl/homecoming.git
