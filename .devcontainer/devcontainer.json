@@ -9,7 +9,8 @@
 		"ghcr.io/devcontainers/features/git-lfs:1": {},
 		"ghcr.io/devcontainers-contrib/features/ansible:2": {},
 		"ghcr.io/devcontainers-contrib/features/nmap-apt-get:1": {},
-		"ghcr.io/devcontainers-contrib/features/pipenv:2": {}
+		"ghcr.io/devcontainers-contrib/features/pipenv:2": {},
+		"ghcr.io/itsmechlark/features/redis-server:1": {}
 	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
